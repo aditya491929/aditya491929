@@ -27,11 +27,17 @@
 
 <h2>📝 Stats</h2>
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya491929&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya491929&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aditya491929&theme=neon-palenight&hide_border=true)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya491929&show_icons=true&theme=dracula" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya491929&layout=compact" />
+</a>
+<br>
+<br>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aditya491929&theme=neon-palenight&hide_border=true" />
+</a>
 
 <br>
 <br>
@@ -44,6 +50,8 @@
 <a href="https://github.com/aditya491929/Expense_App_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
 </a>
+<br>
+<br>
 <a href="https://github.com/aditya491929/meals_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=meals_app&show_owner=true" />
 </a>
