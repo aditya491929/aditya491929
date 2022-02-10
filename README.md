@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Flutter App
 - 🌱 I’m currently learning App Development
 - 💬 Ask me about web or app dev related queries
-- 📫 How to reach me: adityamalwade492@gmail.com
+- 📫 How to reach me: adityaint929@gmail.com
 <br>
 
 ![](https://komarev.com/ghpvc/?username=aditya491929)
@@ -44,14 +44,16 @@
 
 ## My Repos
 
+<a href="https://github.com/aditya491929/FormEasy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=FormEasy&show_owner=true" />
+</a>
 <a href="https://github.com/aditya491929/Nike_shop_app_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
 </a>
+<br>
 <a href="https://github.com/aditya491929/Expense_App_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
 </a>
-<br>
-<br>
 <a href="https://github.com/aditya491929/meals_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=meals_app&show_owner=true" />
 </a>
@@ -61,6 +63,7 @@
 
 **Languages and Tools:**  
 
+<code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="css3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
