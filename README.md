@@ -2,7 +2,7 @@
 <h2 align="center">Hi there 👋, I'm Aditya!</h2> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Web+and+app+developer.++++++++++)](https://git.io/typing-svg)
-- 🔭 I’m currently working on Flutter App
+- 🔭 Summer intern at Connectwise
 - 🌱 I’m currently learning App Development
 - 💬 Ask me about web or app dev related queries
 - 📫 How to reach me: adityaint929@gmail.com
@@ -47,13 +47,17 @@
 <a href="https://github.com/aditya491929/FormEasy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=FormEasy&show_owner=true" />
 </a>
+<a href="https://github.com/ArtifacX/ArtifacX-Interface">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtifacX&repo=ArtifacX-Interface&show_owner=true" />
+</a>
+<br>
 <a href="https://github.com/aditya491929/Nike_shop_app_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
 </a>
-<br>
 <a href="https://github.com/aditya491929/Expense_App_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
 </a>
+<br>
 <a href="https://github.com/aditya491929/meals_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=meals_app&show_owner=true" />
 </a>
