@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
 </a>
 <a href="https://github.com/aditya491929/Expense_App_Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Nike_shop_app_flutter&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya491929&repo=Expense_App_Flutter&show_owner=true" />
 </a>
 <br>
 <a href="https://github.com/aditya491929/meals_app">
